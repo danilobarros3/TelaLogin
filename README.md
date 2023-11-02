@@ -32,4 +32,4 @@ Lembre-se de que os testes aqui descritos são apenas exemplos e podem ser adapt
 
 ## Conclusão
 
-Este código fornece testes básicos para verificar a funcionalidade de autenticação. É importante expandir e adaptar os testes para cobrir todos os casos de uso relevantes no seu sistema. Certifique-se de manter seus testes atualizados à medida que o código de autenticação evolui.
+Este código fornece testes básicos para verificar a funcionalidade de autenticação. É importante expandir e adaptar os testes para cobrir todos os casos de uso relevantes no seu sistema. 
